@@ -198,29 +198,25 @@ header {
     color: #000;
 }
 
-.default.services {
+.default.dark {
     background-color: #000;
 }
 
-.default.services .section-title,
-.default.services .section-body {
+.default.dark .section-title,
+.default.dark .section-body {
     color: #FFF;
 }
 
-.default.services .section-desc {
+.default.dark .section-desc {
     color: #CCC;
 }
-
-
-
-
-
-
 
 
 /*
     CSS DE AREAS ESPECÍFICAS
 */
+
+
 /* ABOUT */
 .section-aboutus {
     display: flex;
@@ -364,6 +360,23 @@ header {
     text-transform: uppercase;
     font-size: 18px;
     font-weight: 600;
+}
+
+/*
+    OUR TEAM
+*/
+.bg-team {
+    background-image: url('../images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 0;
+}
+
+.section-team-area {
+    background-color: rgba(0, 0, 0, 0.8);
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 
