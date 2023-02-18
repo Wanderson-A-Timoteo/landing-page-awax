@@ -133,19 +133,19 @@ Navegue em seu computador até o local onde você clonou o projeto, exemplo:
 C:\Users\NomeDoComputador\Documents\CloneDoProjeto
 ```
 
-Quando encontrar a pasta do projeto, basta acessar `mariobros`. 
+Quando encontrar a pasta do projeto, basta acessar `landing-page-awax`. 
 
 ### 🛰️ Executando o projeto
 
-Bom, agora que esta **(dentro da pasta `mariobros` do projeto clonado)**. Dentro desta pasta tem um arquivo index.html que é o arquivo principal do projeto. Clique duas vezes seguidas neste arquivo.
+Bom, agora que esta **(dentro da pasta `landing-page-awax` do projeto clonado)**. Dentro desta pasta tem um arquivo index.html que é o arquivo principal do projeto. Clique duas vezes seguidas neste arquivo.
 
-Pronto! dessa forma o projeto `mariobros` estará rodando localmente em sua maquina.
+Pronto! dessa forma o projeto `landing-page-awax` estará rodando localmente em sua maquina.
 
 <br>
 
 ## 🚩 Tenho Dúvidas... O que fazer?
 
-Caso tenha dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/Wanderson-A-Timoteo/mariobros/issues)**. Assim que possível, responderei todas as dúvidas!
+Caso tenha dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/Wanderson-A-Timoteo/landing-page-awax/issues)**. Assim que possível, responderei todas as dúvidas!
 
 <br>
 
@@ -171,6 +171,7 @@ Feito com ♥ by
        src="github/b7web-banner.png" 
   />
 
-<br>
+<br><br>
 
-Projeto desenvolvido durante as aulas do curso `HTM5 e CSS3` da plataforma de Ensino [B7Web](https://b7web.com.br/fullstack/).
+
+Projeto desenvolvido durante as aulas do curso `HTM5 e CSS3` da plataforma de ensino [B7Web](https://b7web.com.br/fullstack/).
