@@ -76,6 +76,10 @@ header {
     color: #B28756;
 }
 
+.menu-opener {
+    display: none;
+}
+
 .button {
     display: inline-block;
     color: #fff;
@@ -985,7 +989,7 @@ footer {
     footer {
         max-width:1024px;
     }
-
+   
     .section-aboutus {
 
     }
